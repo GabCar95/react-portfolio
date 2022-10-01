@@ -13,8 +13,7 @@ const About = () => {
                     <p className='text-3xl font-bold inline border-b-4 border-[#40E0D0] text-gray-500'>About</p>
                     <p className='pt-4'>
                         ("Hello World!"), thanks for stopping by and checking out my portfolio. I'm a Marine Corps veteran who got into programming.
-                        I have multiple years of experience working with tech, both hardware and software. I have good communication skills and I work
-                        well in teams. Shoot me an email if you're looking for a self motivated, full stack developer to join your team!
+                        I have multiple years of experience working with tech, both hardware and software. Shoot me an email if you're looking for a full stack developer to join your team, collaborate on a project or make you a custom site!
                     </p>
                 </div >
 

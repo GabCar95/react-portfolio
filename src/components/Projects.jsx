@@ -24,7 +24,7 @@ const Projects = () => {
             <div className='flex flex-col w-full h-full'>
               {/* manage system */}
               <div className='grid grid-cols-1 md:grid-cols-2 w-screen'>
-                  <div className='grid pt-4  shadow-2xl shadow-black hover:scale-110 mx-auto'>
+                  <div className='grid pt-4 rounded-xl shadow-2xl shadow-black hover:scale-105 mx-auto'>
                       <div className='lg:px-[50px] pb-4'>
                         <h1 className='text-xl text-gray-500 ml-[140px] font-semibold py-4'>Maintenance Management System</h1>
                         <img className='w-[500px] h-[250px] ml-[40px] pb-2' src={Dashboard} alt='/' />
@@ -43,17 +43,17 @@ const Projects = () => {
                     </div>
 
                     {/* GPC */}
-                  <div className='grid pt-10 shadow-2xl shadow-black hover:scale-110 mx-auto'>
-                    <div className='lg:px-[50px] pb-4'>
-                      <h1 className='text-xl text-gray-500 ml-[250px] font-semibold py-4'>GPC Service</h1>
+                  <div className='grid pt-8 rounded-xl shadow-2xl shadow-black hover:scale-105 mx-auto'>
+                    <div className='lg:px-[50px]'>
+                      <h1 className='text-xl text-gray-500 ml-[250px] font-semibold pb-4'>GPC Service</h1>
                       <img className='w-[500px] h-[250px] ml-[40px] pb-2' src={Gpc} alt='/' />
                       <div className='inline py-4 ml-[140px]'>
                         <a href='https://gpcsocal.com/' target="_blank" className='px-4 py-1 bg-[#40E0D0] text-gray-500 font-semibold rounded-xl'>Live Site</a>
                         <a href='https://github.com/GabCar95/gpc-app' target="_blank" className='ml-[180px] px-4 py-1 bg-[#40E0D0] text-gray-500 font-semibold rounded-xl'>Code</a>
                       </div>
                       <p className='w-[580px]'>
-                        This is a React.js applicatation for a small local business. The application is fully responsive and has features such as
-                        a react-responsive-carousel, google map, and a functional contact form.
+                      This is a React.js applicatation for a small local business. The application is fully responsive and has features such as
+                       google map, and a functional contact form.
                       </p>
                     </div>
                   </div>

@@ -10,3 +10,9 @@
         @apply cursor-pointer;
     }
 }
+
+.TypeWriter {
+    font-size: x-large;
+    font-weight: bold;
+    color: #D8D8D8;
+}
