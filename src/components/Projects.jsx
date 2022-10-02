@@ -34,7 +34,8 @@ const Projects = () => {
                         </div>
                         <p className='w-[580px]'>
                           This is a full stack application using Django and React.js.
-                          It allows a truck company to keep track of their business information using a relational database. 
+                          It allows a truck company to log in and keep track of their business information using a relational database.
+                          Tools used: Django, Django REST, Axios, React.js, Tailwind. 
                         </p>
                         <strong>username: test </strong>  
                         <br/>  
@@ -52,8 +53,8 @@ const Projects = () => {
                         <a href='https://github.com/GabCar95/gpc-app' target="_blank" className='ml-[180px] px-4 py-1 bg-[#40E0D0] text-gray-500 font-semibold rounded-xl'>Code</a>
                       </div>
                       <p className='w-[580px]'>
-                      This is a React.js applicatation for a small local business. The application is fully responsive and has features such as
-                       google map, and a functional contact form.
+                      This is a React.js single page applicatation for a small local business. The application is fully responsive and has features such as
+                       google maps, smooth scoll, and a contact form.
                       </p>
                     </div>
                   </div>
